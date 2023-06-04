@@ -1,4 +1,5 @@
 
-In this project: 
-dataset exploartion based on the poulation growth
-prediction model creating and scenarios
+in this project: 
+dataset visualization of Population Growth
+create prediction model and scenarios for this dataset
+
